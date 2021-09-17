@@ -27,13 +27,6 @@ HP：http://flow.me.es.osaka-u.ac.jp/
   - Twitter：[@kansai_robocon](https://twitter.com/kansai_robocon)
   - GitHub：[@Kansai-SpringRobocon](https://github.com/Kansai-SpringRobocon)
 
-<img src="https://pbs.twimg.com/media/Dih9D3lVsAAf3_1?format=jpg&name=medium" data-canonical-src="https://pbs.twimg.com/media/Dih9D3lVsAAf3_1?format=jpg&name=medium" width="200" height="200" /> 
-
-- OUXT Polaris | 副代表 運営担当
-  - HP：https://www.ouxt.jp/
-  - Twitter：[@ouxt_polaris](https://twitter.com/ouxt_polaris)
-  - GitHub：[@OUXT-Polaris](https://github.com/OUXT-Polaris)
-
 ## Previous Voluntary Organization
 
 <img src="https://blog.robohan.net/logos/robohan2.png" data-canonical-src="https://blog2.robohan.net/logos/robohan2.png" height="200"/> 
@@ -43,6 +36,14 @@ HP：http://flow.me.es.osaka-u.ac.jp/
     - HP：https://www.robohan.net/
     - Twitter：[@Robohan_](https://twitter.com/Robohan_)
     - GitHub：[@RobohanOU](https://github.com/RobohanOU)
+
+<img src="https://pbs.twimg.com/media/Dih9D3lVsAAf3_1?format=jpg&name=medium" data-canonical-src="https://pbs.twimg.com/media/Dih9D3lVsAAf3_1?format=jpg&name=medium" width="200" height="200" /> 
+
+- OUXT Polaris | 副代表 運営担当
+  - HP：https://www.ouxt.jp/
+  - Twitter：[@ouxt_polaris](https://twitter.com/ouxt_polaris)
+  - GitHub：[@OUXT-Polaris](https://github.com/OUXT-Polaris)
+
 
 ## Links
 
