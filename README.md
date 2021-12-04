@@ -20,7 +20,7 @@ HP：http://flow.me.es.osaka-u.ac.jp/
     - Facebook：[@ScrambleRobocon](https://www.facebook.com/ScrambleRobocon/)
     - Instagram：[@scramble_rbcn](https://www.instagram.com/scramble_rbcn/)
 
-<img src="https://pbs.twimg.com/profile_images/1219193661285519361/JcLlEmnb_400x400.jpg" data-canonical-src="https://pbs.twimg.com/profile_images/1219193661285519361/JcLlEmnb_400x400.jpg" width="200" height="200" /> 
+<img src="https://pbs.twimg.com/profile_images/1455761429777489922/XN138Ukf_400x400.jpg" data-canonical-src="https://pbs.twimg.com/profile_images/1455761429777489922/XN138Ukf_400x400.jpg" width="200" height="200" /> 
 
 - 関西春ロボコン運営委員会 | 2019・2021年度大会運営委員長　広報・スポンサー係
   - HP：https://関西春ロボコン.com/
