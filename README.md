@@ -1,17 +1,17 @@
-## Summary in GitHub
+## Summary in GitHub / GitHubの概要
 
 ![](https://raw.githubusercontent.com/HidetoNiwa/HidetoNiwa/main/profile-summary-card-output/nord_dark/0-profile-details.svg)
 
 ![](https://raw.githubusercontent.com/HidetoNiwa/HidetoNiwa/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)
 ![](https://raw.githubusercontent.com/HidetoNiwa/HidetoNiwa/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)
 
-## About Me
+## About Me / 私について
 
 大阪大学 基礎工学研究科 機能創成専攻 機能デザイン領域 流体工学グループ(杉山研究室)
 
 HP：http://flow.me.es.osaka-u.ac.jp/
 
-## Voluntary Organization
+## Voluntary Organization / 現在所属の団体
 
 ![](https://scramble-robot.org/wp-content/uploads/2020/04/webpage_top_logo.png)
 - 次世代ロボットエンジニア支援機構（Scramble）| 広報・イベントグループ
@@ -27,7 +27,7 @@ HP：http://flow.me.es.osaka-u.ac.jp/
   - Twitter：[@kansai_robocon](https://twitter.com/kansai_robocon)
   - GitHub：[@Kansai-SpringRobocon](https://github.com/Kansai-SpringRobocon)
 
-## Previous Voluntary Organization
+## Previous Voluntary Organization / 以前所属した団体
 
 <img src="https://blog.robohan.net/logos/robohan2.png" data-canonical-src="https://blog2.robohan.net/logos/robohan2.png" height="200"/> 
 
@@ -44,8 +44,7 @@ HP：http://flow.me.es.osaka-u.ac.jp/
   - Twitter：[@ouxt_polaris](https://twitter.com/ouxt_polaris)
   - GitHub：[@OUXT-Polaris](https://github.com/OUXT-Polaris)
 
-
-## Links
+## Links / リンク
 
 - Twitter : [@hahahahaha_NNN](https://twitter.com/hahahahaha_NNNN)
 - Facebook : [Niwa.Hideto](https://www.facebook.com/niwa.hideto/)
