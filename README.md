@@ -14,7 +14,7 @@ HP：http://flow.me.es.osaka-u.ac.jp/
 ## Voluntary Organization / 現在所属の団体
 
 ![](https://scramble-robot.org/wp-content/uploads/2020/04/webpage_top_logo.png)
-- 次世代ロボットエンジニア支援機構（Scramble）| 広報・イベントグループ
+- 次世代ロボットエンジニア支援機構（Scramble）| 広報グループ
     - HP：https://scramble-robot.org/
     - Twitter：[@Scramble_JPN](https://twitter.com/Scramble_JPN)
     - Facebook：[@ScrambleRobocon](https://www.facebook.com/ScrambleRobocon/)
@@ -22,7 +22,7 @@ HP：http://flow.me.es.osaka-u.ac.jp/
 
 <img src="https://pbs.twimg.com/profile_images/1455761429777489922/XN138Ukf_400x400.jpg" data-canonical-src="https://pbs.twimg.com/profile_images/1455761429777489922/XN138Ukf_400x400.jpg" width="200" height="200" /> 
 
-- 関西春ロボコン運営委員会 | 2019・2021年度大会運営委員長　広報・スポンサー係
+- 関西春ロボコン運営委員会 | 2019・2021・2023年度大会運営委員長　広報・チーム係
   - HP：https://関西春ロボコン.com/
   - Twitter：[@kansai_robocon](https://twitter.com/kansai_robocon)
   - GitHub：[@Kansai-SpringRobocon](https://github.com/Kansai-SpringRobocon)
@@ -39,7 +39,7 @@ HP：http://flow.me.es.osaka-u.ac.jp/
 
 <img src="https://pbs.twimg.com/media/Dih9D3lVsAAf3_1?format=jpg&name=medium" data-canonical-src="https://pbs.twimg.com/media/Dih9D3lVsAAf3_1?format=jpg&name=medium" width="200" height="200" /> 
 
-- OUXT Polaris | 副代表 運営担当
+- OUXT Polaris | 2002副代表 運営担当
   - HP：https://www.ouxt.jp/
   - Twitter：[@ouxt_polaris](https://twitter.com/ouxt_polaris)
   - GitHub：[@OUXT-Polaris](https://github.com/OUXT-Polaris)
