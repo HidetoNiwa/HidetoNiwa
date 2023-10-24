@@ -29,7 +29,7 @@ HP：http://flow.me.es.osaka-u.ac.jp/
 
 ## Previous Voluntary Organization / 以前所属した団体
 
-<img src="https://blog.robohan.net/logos/robohan2.png" data-canonical-src="https://blog2.robohan.net/logos/robohan2.png" height="200"/> 
+<img src="https://www.robohan.net/img/logo.png" data-canonical-src="https://www.robohan.net/img/logo.png" height="200"/> 
 
 - 大阪大学公認ロボット製作団体 Robohan
   - 2016年度入部 会計・サーバ係 回路班 NHK学生ロボコン2018ピットメンバ
