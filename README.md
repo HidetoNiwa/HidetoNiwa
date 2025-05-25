@@ -13,14 +13,7 @@ HP：http://flow.me.es.osaka-u.ac.jp/
 
 ## Voluntary Organization / 現在所属の団体
 
-![](https://scramble-robot.org/wp-content/uploads/2020/04/webpage_top_logo.png)
-- 次世代ロボットエンジニア支援機構（Scramble）| 広報グループ
-    - HP：https://scramble-robot.org/
-    - Twitter：[@Scramble_JPN](https://twitter.com/Scramble_JPN)
-    - Facebook：[@ScrambleRobocon](https://www.facebook.com/ScrambleRobocon/)
-    - Instagram：[@scramble_rbcn](https://www.instagram.com/scramble_rbcn/)
-
-<img src="https://pbs.twimg.com/profile_images/1455761429777489922/XN138Ukf_400x400.jpg" data-canonical-src="https://pbs.twimg.com/profile_images/1455761429777489922/XN138Ukf_400x400.jpg" width="200" height="200" /> 
+<img src="https://kansai-harurobo.org/wp-content/uploads/2025/05/%E9%96%A2%E8%A5%BF%E6%98%A5%E3%83%AD%E3%83%9C%E3%82%B3%E3%83%B3_%E9%96%A2%E8%A5%BF%E5%A4%8F%E3%83%AD%E3%83%9C%E3%82%B3%E3%83%B3_%E3%83%AD%E3%82%B4.png" data-canonical-src="https://kansai-harurobo.org/wp-content/uploads/2025/05/%E9%96%A2%E8%A5%BF%E6%98%A5%E3%83%AD%E3%83%9C%E3%82%B3%E3%83%B3_%E9%96%A2%E8%A5%BF%E5%A4%8F%E3%83%AD%E3%83%9C%E3%82%B3%E3%83%B3_%E3%83%AD%E3%82%B4.png" height="200" /> 
 
 - 関西春ロボコン運営委員会 | 2019・2021・2023年度大会運営委員長　広報・チーム係
   - HP：https://関西春ロボコン.com/
@@ -43,6 +36,13 @@ HP：http://flow.me.es.osaka-u.ac.jp/
   - HP：https://www.ouxt.jp/
   - Twitter：[@ouxt_polaris](https://twitter.com/ouxt_polaris)
   - GitHub：[@OUXT-Polaris](https://github.com/OUXT-Polaris)
+ 
+![](https://scramble-robot.org/wp-content/uploads/2020/04/webpage_top_logo.png)
+- 次世代ロボットエンジニア支援機構（Scramble）| 広報グループ
+    - HP：https://scramble-robot.org/
+    - Twitter：[@Scramble_JPN](https://twitter.com/Scramble_JPN)
+    - Facebook：[@ScrambleRobocon](https://www.facebook.com/ScrambleRobocon/)
+    - Instagram：[@scramble_rbcn](https://www.instagram.com/scramble_rbcn/)
 
 ## Links / リンク
 
