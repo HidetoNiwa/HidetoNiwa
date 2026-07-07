@@ -36,13 +36,6 @@ HP：http://flow.me.es.osaka-u.ac.jp/
   - HP：https://www.ouxt.jp/
   - Twitter：[@ouxt_polaris](https://twitter.com/ouxt_polaris)
   - GitHub：[@OUXT-Polaris](https://github.com/OUXT-Polaris)
- 
-![](https://scramble-robot.org/wp-content/uploads/2020/04/webpage_top_logo.png)
-- 次世代ロボットエンジニア支援機構（Scramble）| 広報グループ
-    - HP：https://scramble-robot.org/
-    - Twitter：[@Scramble_JPN](https://twitter.com/Scramble_JPN)
-    - Facebook：[@ScrambleRobocon](https://www.facebook.com/ScrambleRobocon/)
-    - Instagram：[@scramble_rbcn](https://www.instagram.com/scramble_rbcn/)
 
 ## Links / リンク
 
